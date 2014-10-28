@@ -1,3 +1,2 @@
 Hello world!
-to jest zmiana!
-zjada entery!
+Probny plik 2
